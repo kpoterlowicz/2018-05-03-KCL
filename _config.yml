@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/tavareshugo/2018-02-22-KCL"
-workshop_site   : "https://tavareshugo.github.io/2018-02-22-KCL"
+workshop_repo   : "https://github.com/kpoterlowicz/2018-05-03-KCL"
+workshop_site   : "https://kpoterlowicz.github.io/2018-05-03-KCL/"
 #--------------------------------------------------------------------------------
 # Standard Data Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
